@@ -1,7 +1,7 @@
-# SE_Project_Phase1_Team8
+# SE_Project_Phase1_Team8C
 # Team Information
 
-## Team Name: Team8
+## Team Name: Team8C
 
 ## Team Leader:
 - Name: Erdi Kurti
@@ -9,7 +9,7 @@
 
 ## Team Members:
 1. Erdi Kurti - GitHub: ekurti2026 - Email: ekurti23@epoka.edu.al
-2. Kejdi Sheqeri - GitHub:  - Email: ksheqeri23@epoka.edu.al
+2. Kejdi Sheqeri - GitHub: ksheqeri - Email: ksheqeri23@epoka.edu.al
 3. Andi Kurani - GitHub: akurani23-hash - Email: akurani23@epoka.edu.al
 
 # Project Details
