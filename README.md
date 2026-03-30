@@ -5,10 +5,10 @@
 
 ## Team Leader:
 - Name: Erdi Kurti
-- GitHub: ekurti26
+- GitHub: ekurti2026
 
 ## Team Members:
-1. Erdi Kurti - GitHub: ekurti26 - Email: ekurti23@epoka.edu.al
+1. Erdi Kurti - GitHub: ekurti2026 - Email: ekurti23@epoka.edu.al
 2. Kejdi Sheqeri - GitHub:  - Email: ksheqeri23@epoka.edu.al
 3. Andi Kurani - GitHub: akurani23-hash - Email: akurani23@epoka.edu.al
 
