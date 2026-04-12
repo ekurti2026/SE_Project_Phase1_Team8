@@ -8,8 +8,8 @@
 - GitHub: ekurti2026
 
 ## Team Members:
-1. Erdi Kurti - GitHub: ekurti2026 - Email: ekurti23@epoka.edu.al
-2. Kejdi Sheqeri - GitHub: ksheqeri - Email: ksheqeri23@epoka.edu.al
+1. Keidi Sheqeri - GitHub: ksheqeri - Email: ksheqeri23@epoka.edu.al
+2. Erdi Kurti - GitHub: ekurti2026 - Email: ekurti23@epoka.edu.al
 3. Andi Kurani - GitHub: akurani23-hash - Email: akurani23@epoka.edu.al
 
 # Project Details
@@ -52,13 +52,14 @@ KeyShare is an application designed for vehicle rental and sharing. This applica
 # Roles and Tasks
 
 ## Team Leader:
-Erdi Kurti - Responsible for managing the team, the tasks, the progress, and the project's schedule. Additionally,  I will also be involved in the backend and frontend development.
+Keidi Sheqeri - Team Leader  
+Responsible for team and time management, taking the project in the right direction. Repsonsible for creation of the logic and workflow of the project and validation of the team members works.
 
 ## Team Members:
-1. Kejdi Sheqeri - **Backend Developer**  
+1. Erdi Kurti -
    Mainly responsible for backend development, which includes business logic, data management, and system functionality.
 
-2. Andi Kurani - **Frontend Developer**  
+3. Andi Kurani - **Frontend Developer**  
    Mainly responsible for frontend development, which includes interface design, page creation, and user experience improvement.
 
 ### Shared Roles:
