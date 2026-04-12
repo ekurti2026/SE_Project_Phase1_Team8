@@ -67,5 +67,9 @@ Responsible for team and time management, taking the project in the right direct
 - The entire team shares the responsibilities of testing and feedback.
 - Communication through the development will be key
 
+
+##For more info, please check the docs folder##
+##Thank you!##
+
 # Deadline
 30.03.2026 - 23:59 hours
