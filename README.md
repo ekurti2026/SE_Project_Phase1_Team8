@@ -4,8 +4,8 @@
 ## Team Name: Team8C
 
 ## Team Leader:
-- Name: Erdi Kurti
-- GitHub: ekurti2026
+- Name: Keidi Sheqeri
+- GitHub: ksheqeri
 
 ## Team Members:
 1. Keidi Sheqeri - GitHub: ksheqeri - Email: ksheqeri23@epoka.edu.al
