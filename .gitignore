@@ -1,0 +1,30 @@
+# === C# / .NET ===
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+*.dbmdl
+*.pdb
+*.cache
+*.log
+TestResults/
+
+# Rider / JetBrains IDE
+.idea/
+
+# === Node / Angular ===
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.angular/cache/
+
+# Optional system files
+.DS_Store
+Thumbs.db

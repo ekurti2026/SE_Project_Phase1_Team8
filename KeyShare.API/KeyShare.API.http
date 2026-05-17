@@ -1,0 +1,6 @@
+@KeyShare.API_HostAddress = http://localhost:5080
+
+GET {{KeyShare.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
